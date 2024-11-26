@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7FuEg2KcOvk=",
+  "dgSpecHash": "Idnad/XsqdI=",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+  "projectFilePath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Boris\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Boris\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

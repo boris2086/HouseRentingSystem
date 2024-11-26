@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj": {}
+    "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+    "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
         "projectName": "HouseRentingSystem.Services",
-        "projectPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
+        "projectPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\obj\\",
+        "outputPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,14 +93,14 @@
         }
       }
     },
-    "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj": {
+    "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
         "projectName": "HouseRentingSystem.Tests",
-        "projectPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
+        "projectPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\HouseRentingSystem.Tests.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\obj\\",
+        "outputPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +121,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
-                "projectPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+              "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+                "projectPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
               },
-              "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {
-                "projectPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj"
+              "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {
+                "projectPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj"
               }
             }
           }
@@ -199,14 +199,14 @@
         }
       }
     },
-    "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {
+    "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
         "projectName": "HouseRentingSystem.Web",
-        "projectPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
+        "projectPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Web\\HouseRentingSystem.Web.csproj",
         "packagesPath": "C:\\Users\\Boris\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Web\\obj\\",
+        "outputPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -227,8 +227,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
-                "projectPath": "D:\\SoftUni\\Back-End 09.2024\\Back-End Test Automation-Ноември-2024\\6. Exercise-Continuous-Integration-(CI)\\04.Exercise-Continuous-Integration-Resources\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
+              "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj": {
+                "projectPath": "D:\\SoftUni\\Back-End 09.2024\\02-House-Renting-System-App\\HouseRentingSystem.Services\\HouseRentingSystem.Services.csproj"
               }
             }
           }
