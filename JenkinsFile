@@ -1,0 +1,44 @@
+pipeline{
+    agent any
+    stages{
+        stage('Checkout'){
+            steps{
+                git branch: 'main',url: 'https://github.com/boris2086/HouseRentingSystem/tree/main'
+            }
+        }
+		stage('Install dependencies'){
+            steps{
+                script{
+                    bat 'Setup .NET'
+            }
+         }
+        }
+        stage('Install dependencies'){
+            steps{
+                script{
+                    bat 'dotnet restore'
+            }
+         }
+        }
+        stage("Start application and")
+        {
+            steps{
+                script{
+                    bat 'dotnet build --no-restore'
+                }
+            }
+        }
+        stage('Run tests'){
+            steps{
+                script{
+                    bat 'dotnet test --no-build --verbosity normal'
+                }
+            }
+        }
+    }
+    post {
+        always{
+            echo "CI pipeline completed"
+        }
+    }
+    }
