@@ -3,15 +3,8 @@ pipeline{
     stages{
         stage('Checkout'){
             steps{
-                git branch: 'main',url: 'https://github.com/boris2086/HouseRentingSystem/tree/main'
+                git branch: 'main',url: 'https://github.com/boris2086/HouseRentingSystem'
             }
-        }
-		stage('Install dependencies'){
-            steps{
-                script{
-                    bat 'Setup .NET'
-            }
-         }
         }
         stage('Install dependencies'){
             steps{
